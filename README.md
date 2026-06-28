@@ -5,4 +5,4 @@ List of Projects
 |S.No|  Project Name | Links   |
 |-----| ------------ | ------------ |
 |1.|  Casino_Daily_Summary_Pipeline_in_Azure | [Casino_Daily_Summary_Pipeline_in_Azure](https://github.com/PoovarasanGunasekaran/Big_Data_Projects/tree/main/Casino_Daily_Summary_Pipeline_in_Azure "Casino_Daily_Summary_Pipeline_in_Azure") |
-|2.|  Azure Olympics Lakehouse – Paris 2024 Data Engineering Project | [Azure Olympics Lakehouse – Paris 2024 Data Engineering Project](https://github.com/PoovarasanGunasekaran/Big_Data_Projects/tree/main/Azure Olympics Lakehouse – Paris 2024 Data Engineering Project "Azure Olympics Lakehouse – Paris 2024 Data Engineering Project") |
+|2.|  Azure Olympics Lakehouse – Paris 2024 Data Engineering Project | [Azure Olympics Lakehouse – Paris 2024 Data Engineering Project](Azure Olympics Lakehouse – Paris 2024 Data Engineering Project) |
